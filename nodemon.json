@@ -1,0 +1,7 @@
+{
+  "watch": ["src", "config"],
+  "ext": ".ts, .js",
+  "exec": "ts-node ./src/index.ts",
+  "ignore": ["logs", "public"],
+  "delay": 1000
+}
